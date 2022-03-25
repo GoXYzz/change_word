@@ -1,3 +1,5 @@
+# Take the original file and make another one with changed sequences of chars
+
 # Symbol to change
 base_char = input("Enter base char: ")
 # New symbol
